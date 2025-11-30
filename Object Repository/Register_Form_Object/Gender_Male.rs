@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Gender_Male</name>
+   <tag></tag>
+   <elementGuidId>3ab8d824-7d17-417a-b180-bc1dd13e9cb5</elementGuidId>
+   <imagePath>Screenshots/Targets/Page_DEMOQA/Gender_Male.png</imagePath>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.custom-control.custom-radio.custom-control-inline</value>
+      </entry>
+      <entry>
+         <key>IMAGE</key>
+         <value>Screenshots/Targets/Page_DEMOQA/Gender_Male.png</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='genterWrapper']/div[2]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>00fc7b6c-0416-468a-aa2a-5ce2d37fcccb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>custom-control custom-radio custom-control-inline</value>
+      <webElementGuid>55ceb1a5-d12c-4508-a550-2f8f9e494f09</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Male</value>
+      <webElementGuid>c1dd2255-e461-4feb-93c1-4ea60529dba7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;genterWrapper&quot;)/div[@class=&quot;col-md-9 col-sm-12&quot;]/div[@class=&quot;custom-control custom-radio custom-control-inline&quot;]</value>
+      <webElementGuid>f36b1065-b919-4743-bd7e-7e9db3d09488</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='genterWrapper']/div[2]/div</value>
+      <webElementGuid>45fd2468-d3ab-4b23-a380-60830dda2f53</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Gender'])[1]/following::div[2]</value>
+      <webElementGuid>6147a58e-c1f1-4217-b99c-b7871c6ba327</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email'])[1]/following::div[5]</value>
+      <webElementGuid>8943b6c1-a619-40c3-a5f8-3ad5f7ff2a33</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Female'])[1]/preceding::div[1]</value>
+      <webElementGuid>e9fe8993-7d07-480e-9946-53cda8b5cca3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[2]/div</value>
+      <webElementGuid>a6b62574-8a77-4e5c-8013-98979c01a93e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Male' or . = 'Male')]</value>
+      <webElementGuid>815d45a4-c102-4a5f-a91e-5c659a6071c8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

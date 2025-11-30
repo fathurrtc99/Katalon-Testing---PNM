@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Select_Math</name>
+   <tag></tag>
+   <elementGuidId>e601c077-74e0-41d6-afd1-f30a5ac2716d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='subjectsContainer']/div/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.css-12jo7m5.subjects-auto-complete__multi-value__label</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;subjectsContainer&quot;)/div[@class=&quot;subjects-auto-complete__control subjects-auto-complete__control--is-focused css-1pahdxg-control&quot;]/div[@class=&quot;subjects-auto-complete__value-container subjects-auto-complete__value-container--is-multi subjects-auto-complete__value-container--has-value css-1hwfws3&quot;]/div[@class=&quot;css-1rhbuit-multiValue subjects-auto-complete__multi-value&quot;]/div[@class=&quot;css-12jo7m5 subjects-auto-complete__multi-value__label&quot;][count(. | //*[@class = 'css-12jo7m5 subjects-auto-complete__multi-value__label' and (text() = 'Maths' or . = 'Maths')]) = count(//*[@class = 'css-12jo7m5 subjects-auto-complete__multi-value__label' and (text() = 'Maths' or . = 'Maths')])]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>26cd13bf-35d4-4433-a174-b01b8f71b370</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-12jo7m5 subjects-auto-complete__multi-value__label</value>
+      <webElementGuid>2c1d8d47-56b3-462f-a808-fa5d9a917fac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Maths</value>
+      <webElementGuid>a91d17a9-4542-4b1e-bce4-503cfde47efd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;subjectsContainer&quot;)/div[@class=&quot;subjects-auto-complete__control subjects-auto-complete__control--is-focused css-1pahdxg-control&quot;]/div[@class=&quot;subjects-auto-complete__value-container subjects-auto-complete__value-container--is-multi subjects-auto-complete__value-container--has-value css-1hwfws3&quot;]/div[@class=&quot;css-1rhbuit-multiValue subjects-auto-complete__multi-value&quot;]/div[@class=&quot;css-12jo7m5 subjects-auto-complete__multi-value__label&quot;]</value>
+      <webElementGuid>066fae94-488b-4922-9295-1d6003b342ee</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='subjectsContainer']/div/div/div/div</value>
+      <webElementGuid>f377ba9c-b0a4-4a3c-809f-31a9c99f9cb8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Subjects'])[1]/following::div[6]</value>
+      <webElementGuid>3a5d98f5-e0dc-49ba-a460-53ed325c0c22</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Date of Birth'])[1]/following::div[11]</value>
+      <webElementGuid>a55df652-b660-4a95-a620-caa8e7a7756e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hobbies'])[1]/preceding::div[7]</value>
+      <webElementGuid>d361736a-cd11-4410-b980-6af3fc7cf388</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sports'])[1]/preceding::div[8]</value>
+      <webElementGuid>e6d11376-9738-4aa5-87da-efccf6fa7797</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Maths']/parent::*</value>
+      <webElementGuid>7a529ff9-cc36-4472-a28b-77d5b422c33e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div[2]/div/div/div/div/div</value>
+      <webElementGuid>8bc61a74-1be0-414f-87c0-2c8cf97af09c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Maths' or . = 'Maths')]</value>
+      <webElementGuid>ba4d8aef-5617-4f63-aa98-c011505e8a7a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

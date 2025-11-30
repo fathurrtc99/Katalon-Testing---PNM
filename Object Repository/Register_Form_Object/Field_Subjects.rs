@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Field_Subjects</name>
+   <tag></tag>
+   <elementGuidId>206ea504-1361-4b03-9cdf-a3db0ca4e01a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='subjectsContainer']/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.subjects-auto-complete__value-container.subjects-auto-complete__value-container--is-multi.css-1hwfws3</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;subjectsContainer&quot;)/div[@class=&quot;subjects-auto-complete__control css-yk16xz-control&quot;]/div[@class=&quot;subjects-auto-complete__value-container subjects-auto-complete__value-container--is-multi css-1hwfws3&quot;][count(. | //div[@class = 'subjects-auto-complete__value-container subjects-auto-complete__value-container--is-multi css-1hwfws3']) = count(//div[@class = 'subjects-auto-complete__value-container subjects-auto-complete__value-container--is-multi css-1hwfws3'])]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>44cf52f3-b1be-4f79-8ec8-734e151a826f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>subjects-auto-complete__value-container subjects-auto-complete__value-container--is-multi css-1hwfws3</value>
+      <webElementGuid>1b7f844f-52f4-4869-8433-85ddfa619a70</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;subjectsContainer&quot;)/div[@class=&quot;subjects-auto-complete__control css-yk16xz-control&quot;]/div[@class=&quot;subjects-auto-complete__value-container subjects-auto-complete__value-container--is-multi css-1hwfws3&quot;]</value>
+      <webElementGuid>5518237a-c580-4a45-b922-433c79ac551c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='subjectsContainer']/div/div</value>
+      <webElementGuid>e4f5789c-8824-4b03-a3eb-4c8d074ee76b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Subjects'])[1]/following::div[4]</value>
+      <webElementGuid>07f7bf2b-09a3-457e-8134-af29ee9843f6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Date of Birth'])[1]/following::div[9]</value>
+      <webElementGuid>1ac2a847-5d5c-434a-9eca-5e4841016b12</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hobbies'])[1]/preceding::div[6]</value>
+      <webElementGuid>f1fe4da2-67ba-457d-8bea-e1f4a861902a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sports'])[1]/preceding::div[7]</value>
+      <webElementGuid>373efcbb-62d3-40b9-b78d-641e5fb72d4e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div[2]/div/div/div</value>
+      <webElementGuid>0e9436e5-e942-4ff3-98d8-7fa8a492b3da</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

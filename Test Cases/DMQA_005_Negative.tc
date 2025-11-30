@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Practice Registration Form: Empty field Gender</description>
+   <name>DMQA_005_Negative</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>1df4aecf-44ef-471d-a079-5d9c98b0288c</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Select_October</name>
+   <tag></tag>
+   <elementGuidId>33d96963-4e4b-4b31-8895-68f075997d2d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='dateOfBirth']/div[2]/div[2]/div/div/div[2]/div/div[2]/div/select</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>select.react-datepicker__month-select</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;dateOfBirth&quot;)/div[@class=&quot;react-datepicker__tab-loop&quot;]/div[@class=&quot;react-datepicker-popper&quot;]/div[1]/div[@class=&quot;react-datepicker&quot;]/div[@class=&quot;react-datepicker__month-container&quot;]/div[@class=&quot;react-datepicker__header&quot;]/div[@class=&quot;react-datepicker__header__dropdown react-datepicker__header__dropdown--select&quot;]/div[@class=&quot;react-datepicker__month-dropdown-container react-datepicker__month-dropdown-container--select&quot;]/select[@class=&quot;react-datepicker__month-select&quot;][count(. | //*[@class = 'react-datepicker__month-select' and (text() = 'JanuaryFebruaryMarchAprilMayJuneJulyAugustSeptemberOctoberNovemberDecember' or . = 'JanuaryFebruaryMarchAprilMayJuneJulyAugustSeptemberOctoberNovemberDecember')]) = count(//*[@class = 'react-datepicker__month-select' and (text() = 'JanuaryFebruaryMarchAprilMayJuneJulyAugustSeptemberOctoberNovemberDecember' or . = 'JanuaryFebruaryMarchAprilMayJuneJulyAugustSeptemberOctoberNovemberDecember')])]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>cc3c5b8a-fa3a-46d0-b5bd-55e02c4ec15d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>react-datepicker__month-select</value>
+      <webElementGuid>89c1dd62-77bb-4e67-93f4-f51cd6d50b16</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>JanuaryFebruaryMarchAprilMayJuneJulyAugustSeptemberOctoberNovemberDecember</value>
+      <webElementGuid>7bad7f70-a934-4ea8-a9aa-49bf034bf70d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;dateOfBirth&quot;)/div[@class=&quot;react-datepicker__tab-loop&quot;]/div[@class=&quot;react-datepicker-popper&quot;]/div[1]/div[@class=&quot;react-datepicker&quot;]/div[@class=&quot;react-datepicker__month-container&quot;]/div[@class=&quot;react-datepicker__header&quot;]/div[@class=&quot;react-datepicker__header__dropdown react-datepicker__header__dropdown--select&quot;]/div[@class=&quot;react-datepicker__month-dropdown-container react-datepicker__month-dropdown-container--select&quot;]/select[@class=&quot;react-datepicker__month-select&quot;]</value>
+      <webElementGuid>189969ef-8c2f-4ef9-84fd-5555bbed01f4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='dateOfBirth']/div[2]/div[2]/div/div/div[2]/div/div[2]/div/select</value>
+      <webElementGuid>d6aec480-74db-4cd5-90ae-f666c629c9a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='October 1999'])[1]/following::select[1]</value>
+      <webElementGuid>0febc384-394d-4b72-8516-f5e185b53b71</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Next Month'])[1]/following::select[1]</value>
+      <webElementGuid>9a4dd78b-4921-47b6-9bf2-1e878671fc55</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Su'])[1]/preceding::select[2]</value>
+      <webElementGuid>dfec24e2-e7f4-4aec-8adb-a223345b9ca0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mo'])[1]/preceding::select[2]</value>
+      <webElementGuid>403eae00-b97e-4126-bde6-aa69c7eb880e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select</value>
+      <webElementGuid>3e40bb8f-d2b6-412c-b959-d6e284448f4b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[(text() = 'JanuaryFebruaryMarchAprilMayJuneJulyAugustSeptemberOctoberNovemberDecember' or . = 'JanuaryFebruaryMarchAprilMayJuneJulyAugustSeptemberOctoberNovemberDecember')]</value>
+      <webElementGuid>f6722b51-de95-491b-b0ff-c1a400e96088</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

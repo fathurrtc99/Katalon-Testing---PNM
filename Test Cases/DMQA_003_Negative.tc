@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Practice Registration Form: Empty Field Last Name</description>
+   <name>DMQA_003_Negative</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>7879a322-78e3-417f-ad54-1f70c8fdca18</testCaseGuid>
+</TestCaseEntity>

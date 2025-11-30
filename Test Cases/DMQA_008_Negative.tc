@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Practice Registration Form: Input Field Mobile with Special Character</description>
+   <name>DMQA_008_Negative</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>23750a45-623d-43e4-a807-71483c06cf9c</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Field_picture</name>
+   <tag></tag>
+   <elementGuidId>94a85a17-6142-43ba-b4ad-9e296a478314</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.form-file</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='userForm']/div[8]/div[2]/div</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;userForm&quot;)/div[@class=&quot;mt-2 row&quot;]/div[@class=&quot;col-md-9 col-sm-12&quot;]/div[@class=&quot;form-file&quot;][count(. | //*[(text() = 'Select picture' or . = 'Select picture')]) = count(//*[(text() = 'Select picture' or . = 'Select picture')])]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>bc539254-be4b-4f7f-b4e5-8bc63eb92f2d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-file</value>
+      <webElementGuid>34ecd44d-0078-4a74-91db-0e01ef76a806</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select picture</value>
+      <webElementGuid>7aaae346-3ca9-4cce-aeb3-b8522eeb9825</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;userForm&quot;)/div[@class=&quot;mt-2 row&quot;]/div[@class=&quot;col-md-9 col-sm-12&quot;]/div[@class=&quot;form-file&quot;]</value>
+      <webElementGuid>a19a6200-1507-4ce4-a480-72528049dcb2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='userForm']/div[8]/div[2]/div</value>
+      <webElementGuid>fca33f50-ef37-4cf2-88be-c2d9fbe9e281</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Picture'])[1]/following::div[2]</value>
+      <webElementGuid>2ec1577b-313d-4851-91f8-dd272d47eb99</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Music'])[1]/following::div[4]</value>
+      <webElementGuid>f313386a-6e26-46ff-859a-0ace20bec67c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Current Address'])[1]/preceding::div[1]</value>
+      <webElementGuid>c134a33e-1563-4632-ba5d-02a717655299</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[8]/div[2]/div</value>
+      <webElementGuid>ea25830f-9659-4ec5-952b-1645dd0529ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Select picture' or . = 'Select picture')]</value>
+      <webElementGuid>4f82d48e-0651-4b87-a052-0b4c3a6a2eb2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

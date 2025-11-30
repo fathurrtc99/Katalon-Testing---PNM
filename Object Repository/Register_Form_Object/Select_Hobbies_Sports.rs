@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Select_Hobbies_Sports</name>
+   <tag></tag>
+   <elementGuidId>0aff2ba1-2383-4d8e-9154-5c8f667ec279</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.custom-control.custom-checkbox.custom-control-inline</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='hobbiesWrapper']/div[2]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>7b4bb3fb-c911-4b98-977b-7ff98041ee73</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>custom-control custom-checkbox custom-control-inline</value>
+      <webElementGuid>a29a3c49-d47f-4f90-bec5-ccc43e61fbb2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Sports</value>
+      <webElementGuid>65eeb128-a6d3-4945-a7f5-482458699e92</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;hobbiesWrapper&quot;)/div[@class=&quot;col-md-9 col-sm-12&quot;]/div[@class=&quot;custom-control custom-checkbox custom-control-inline&quot;]</value>
+      <webElementGuid>ca237061-8992-466c-aa10-7cdb5209fadf</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='hobbiesWrapper']/div[2]/div</value>
+      <webElementGuid>cbb3a832-154f-4513-86e4-289074f05091</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hobbies'])[1]/following::div[2]</value>
+      <webElementGuid>8fd203c4-1c3f-448c-bcc3-228163429822</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Maths'])[1]/following::div[10]</value>
+      <webElementGuid>8ef4bd9a-95b7-40ca-a7a2-6aa40b59c00a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reading'])[1]/preceding::div[1]</value>
+      <webElementGuid>d53d9e19-614e-4d03-8316-23a432a01af6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]/div[2]/div</value>
+      <webElementGuid>673c15c9-430a-49cb-b83a-fdff6e01ac5b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Sports' or . = 'Sports')]</value>
+      <webElementGuid>0293ae66-9704-4e49-968f-41f36d40ea45</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

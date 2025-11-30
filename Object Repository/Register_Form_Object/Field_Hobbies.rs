@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Field_Hobbies</name>
+   <tag></tag>
+   <elementGuidId>0d3edde4-bc27-4df8-85c8-f657f6670dbc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='hobbiesWrapper']/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#hobbiesWrapper > div.col-md-9.col-sm-12</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>58aeb122-b483-40d6-901e-6b326a53f2cb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>col-md-9 col-sm-12</value>
+      <webElementGuid>74c4ca12-b965-4969-ba61-a0f286db152b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>SportsReadingMusic</value>
+      <webElementGuid>c2f87f30-a4b8-459a-b795-91a09fa970c1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;hobbiesWrapper&quot;)/div[@class=&quot;col-md-9 col-sm-12&quot;]</value>
+      <webElementGuid>89eb2321-07f2-4c11-9275-90c1cc25b7e4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='hobbiesWrapper']/div[2]</value>
+      <webElementGuid>cab9faf9-d6a5-44e2-b8ee-a4c451e391fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hobbies'])[1]/following::div[1]</value>
+      <webElementGuid>e29ef6fc-ba66-4c66-9571-561cf708faa5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Subjects'])[1]/following::div[12]</value>
+      <webElementGuid>acbb918a-e763-43b5-9f48-88443e67883f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]/div[2]</value>
+      <webElementGuid>a3cb4c4e-5d16-4c4f-a0f9-2fafe5c9cae0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'SportsReadingMusic' or . = 'SportsReadingMusic')]</value>
+      <webElementGuid>7847b669-7d55-438a-a920-972a86c34254</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Menu_Forms</name>
+   <tag></tag>
+   <elementGuidId>09ca2e5c-e3ee-41d7-bfeb-6beee5f5c311</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div/div[2]/div/div[2]/div/div[3]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;app&quot;)/div[@class=&quot;body-height&quot;]/div[@class=&quot;home-content&quot;]/div[@class=&quot;home-body&quot;]/div[@class=&quot;category-cards&quot;]/div[@class=&quot;card mt-4 top-card&quot;]/div[1]/div[@class=&quot;card-body&quot;][count(. | //*[@class = 'card-body' and (text() = 'Forms' or . = 'Forms')]) = count(//*[@class = 'card-body' and (text() = 'Forms' or . = 'Forms')])]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>5056fcec-a4e3-4790-aede-9c2e4adef251</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>card-body</value>
+      <webElementGuid>44c6da0f-ea4d-4b91-8004-813518d572cf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Forms</value>
+      <webElementGuid>0d21e1de-7a8a-4839-9a8e-2499da7018f1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;body-height&quot;]/div[@class=&quot;home-content&quot;]/div[@class=&quot;home-body&quot;]/div[@class=&quot;category-cards&quot;]/div[@class=&quot;card mt-4 top-card&quot;]/div[1]/div[@class=&quot;card-body&quot;]</value>
+      <webElementGuid>aabc27b8-19e8-4761-8cd6-25a16b2b567d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div/div[2]/div/div[2]/div/div[3]</value>
+      <webElementGuid>340c4f23-69cd-4089-9a34-7070b421c28d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Elements'])[1]/following::div[5]</value>
+      <webElementGuid>480d76c6-6933-4736-846c-37fc0802ff8e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Alerts, Frame &amp; Windows'])[1]/preceding::div[3]</value>
+      <webElementGuid>c6dcf87e-48b3-45ee-a11c-4c6f4d8b1c32</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]/div/div[3]</value>
+      <webElementGuid>0b246996-9b47-49e1-aab9-c910aabca2ba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Forms' or . = 'Forms')]</value>
+      <webElementGuid>14e0c1a4-810d-4963-8d8b-563232a90429</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
