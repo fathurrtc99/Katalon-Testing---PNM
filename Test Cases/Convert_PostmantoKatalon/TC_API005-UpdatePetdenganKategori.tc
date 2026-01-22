@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Menambahkan jenis kategori pet</description>
+   <name>TC_API005-UpdatePetdenganKategori</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f9389298-b783-4b5b-8b6e-9e0fc34b078e</testCaseGuid>
+</TestCaseEntity>

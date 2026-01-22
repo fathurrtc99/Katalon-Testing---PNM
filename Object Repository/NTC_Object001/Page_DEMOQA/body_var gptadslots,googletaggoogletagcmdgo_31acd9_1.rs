@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>body_var gptadslots,googletaggoogletagcmdgo_31acd9_1</name>
+   <tag></tag>
+   <elementGuidId>eb03c4c4-58f2-453c-a5dd-99e9320fa87b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>body</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//body</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>body</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>body</value>
+      <webElementGuid>e5e616a0-e12a-4e37-a724-42b95600b6de</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>var gptadslots=[],googletag=googletag||{cmd:[]}googletag.cmd.push((function(){var e=googletag.sizeMapping().addSize([0,0],[[320,50],[300,75],[300,50]]).addSize([730,200],[[728,90],[468,60]]).addSize([975,200],[[970,90],[728,90],[960,90],[750,100],[950,90],[468,60]]).build();gptadslots.push(googletag.defineSlot(&quot;/21849154601,22343295815/Ad.Plus-Anchor&quot;,[[320,100]],&quot;adplus-anchor&quot;).setTargeting(&quot;site&quot;,[&quot;demoqa.com&quot;]).defineSizeMapping(e).addService(googletag.pubads())),googletag.enableServices()}))!function(e,t,a,n,g){e[n]=e[n]||[],e[n].push({&quot;gtm.start&quot;:(new Date).getTime(),event:&quot;gtm.js&quot;});var m=t.getElementsByTagName(a)[0],r=t.createElement(a);r.async=!0,r.src=&quot;https://www.googletagmanager.com/gtm.js?id=GTM-MX8DD4S&quot;,m.parentNode.insertBefore(r,m)}(window,document,&quot;script&quot;,&quot;dataLayer&quot;)&lt;iframe src=&quot;https://www.googletagmanager.com/ns.html?id=GTM-MX8DD4S&quot; height=&quot;0&quot; width=&quot;0&quot; style=&quot;display:none;visibility:hidden&quot;>&lt;/iframe>Elements Text BoxCheck BoxRadio ButtonWeb TablesButtonsLinksBroken Links - ImagesUpload and DownloadDynamic PropertiesForms Practice FormAlerts, Frame &amp; Windows Browser WindowsAlertsFramesNested FramesModal DialogsWidgets AccordianAuto CompleteDate PickerSliderProgress BarTabsTool TipsMenuSelect MenuInteractions SortableSelectableResizableDroppableDragabbleBook Store Application LoginBook StoreProfileBook Store APIPlease select an item from left to start practice.© 2013-2020 TOOLSQA.COM | ALL RIGHTS RESERVED.id(&quot;app&quot;)/div[@class=&quot;body-height&quot;]/div[@class=&quot;container playgound-body&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-12 mt-4  col-md-3&quot;]/div[@class=&quot;left-pannel&quot;]/div[@class=&quot;accordion&quot;]/div[@class=&quot;element-group&quot;]/div[@class=&quot;element-list collapse show&quot;]/ul[@class=&quot;menu-list&quot;]/li[@id=&quot;item-0&quot;]/span[@class=&quot;text&quot;]</value>
+      <webElementGuid>9dfb2867-c1f6-4f3f-bda8-1cba4a7eaaf9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]</value>
+      <webElementGuid>c05b2eb3-741c-46ba-ba42-dccb0c807cbb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//body</value>
+      <webElementGuid>54448458-18be-46dc-9d1c-3ee822be72c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//body[(text() = 'var gptadslots=[],googletag=googletag||{cmd:[]}googletag.cmd.push((function(){var e=googletag.sizeMapping().addSize([0,0],[[320,50],[300,75],[300,50]]).addSize([730,200],[[728,90],[468,60]]).addSize([975,200],[[970,90],[728,90],[960,90],[750,100],[950,90],[468,60]]).build();gptadslots.push(googletag.defineSlot(&quot;/21849154601,22343295815/Ad.Plus-Anchor&quot;,[[320,100]],&quot;adplus-anchor&quot;).setTargeting(&quot;site&quot;,[&quot;demoqa.com&quot;]).defineSizeMapping(e).addService(googletag.pubads())),googletag.enableServices()}))!function(e,t,a,n,g){e[n]=e[n]||[],e[n].push({&quot;gtm.start&quot;:(new Date).getTime(),event:&quot;gtm.js&quot;});var m=t.getElementsByTagName(a)[0],r=t.createElement(a);r.async=!0,r.src=&quot;https://www.googletagmanager.com/gtm.js?id=GTM-MX8DD4S&quot;,m.parentNode.insertBefore(r,m)}(window,document,&quot;script&quot;,&quot;dataLayer&quot;)&lt;iframe src=&quot;https://www.googletagmanager.com/ns.html?id=GTM-MX8DD4S&quot; height=&quot;0&quot; width=&quot;0&quot; style=&quot;display:none;visibility:hidden&quot;>&lt;/iframe>Elements Text BoxCheck BoxRadio ButtonWeb TablesButtonsLinksBroken Links - ImagesUpload and DownloadDynamic PropertiesForms Practice FormAlerts, Frame &amp; Windows Browser WindowsAlertsFramesNested FramesModal DialogsWidgets AccordianAuto CompleteDate PickerSliderProgress BarTabsTool TipsMenuSelect MenuInteractions SortableSelectableResizableDroppableDragabbleBook Store Application LoginBook StoreProfileBook Store APIPlease select an item from left to start practice.© 2013-2020 TOOLSQA.COM | ALL RIGHTS RESERVED.id(&quot;app&quot;)/div[@class=&quot;body-height&quot;]/div[@class=&quot;container playgound-body&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-12 mt-4  col-md-3&quot;]/div[@class=&quot;left-pannel&quot;]/div[@class=&quot;accordion&quot;]/div[@class=&quot;element-group&quot;]/div[@class=&quot;element-list collapse show&quot;]/ul[@class=&quot;menu-list&quot;]/li[@id=&quot;item-0&quot;]/span[@class=&quot;text&quot;]' or . = 'var gptadslots=[],googletag=googletag||{cmd:[]}googletag.cmd.push((function(){var e=googletag.sizeMapping().addSize([0,0],[[320,50],[300,75],[300,50]]).addSize([730,200],[[728,90],[468,60]]).addSize([975,200],[[970,90],[728,90],[960,90],[750,100],[950,90],[468,60]]).build();gptadslots.push(googletag.defineSlot(&quot;/21849154601,22343295815/Ad.Plus-Anchor&quot;,[[320,100]],&quot;adplus-anchor&quot;).setTargeting(&quot;site&quot;,[&quot;demoqa.com&quot;]).defineSizeMapping(e).addService(googletag.pubads())),googletag.enableServices()}))!function(e,t,a,n,g){e[n]=e[n]||[],e[n].push({&quot;gtm.start&quot;:(new Date).getTime(),event:&quot;gtm.js&quot;});var m=t.getElementsByTagName(a)[0],r=t.createElement(a);r.async=!0,r.src=&quot;https://www.googletagmanager.com/gtm.js?id=GTM-MX8DD4S&quot;,m.parentNode.insertBefore(r,m)}(window,document,&quot;script&quot;,&quot;dataLayer&quot;)&lt;iframe src=&quot;https://www.googletagmanager.com/ns.html?id=GTM-MX8DD4S&quot; height=&quot;0&quot; width=&quot;0&quot; style=&quot;display:none;visibility:hidden&quot;>&lt;/iframe>Elements Text BoxCheck BoxRadio ButtonWeb TablesButtonsLinksBroken Links - ImagesUpload and DownloadDynamic PropertiesForms Practice FormAlerts, Frame &amp; Windows Browser WindowsAlertsFramesNested FramesModal DialogsWidgets AccordianAuto CompleteDate PickerSliderProgress BarTabsTool TipsMenuSelect MenuInteractions SortableSelectableResizableDroppableDragabbleBook Store Application LoginBook StoreProfileBook Store APIPlease select an item from left to start practice.© 2013-2020 TOOLSQA.COM | ALL RIGHTS RESERVED.id(&quot;app&quot;)/div[@class=&quot;body-height&quot;]/div[@class=&quot;container playgound-body&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-12 mt-4  col-md-3&quot;]/div[@class=&quot;left-pannel&quot;]/div[@class=&quot;accordion&quot;]/div[@class=&quot;element-group&quot;]/div[@class=&quot;element-list collapse show&quot;]/ul[@class=&quot;menu-list&quot;]/li[@id=&quot;item-0&quot;]/span[@class=&quot;text&quot;]')]</value>
+      <webElementGuid>295fae5d-6c65-40a6-b634-83fd09a478bc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

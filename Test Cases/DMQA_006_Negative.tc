@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description>Practice Registration Form: Empty Field Mobile</description>
-   <name>DMQA_006_Negative</name>
-   <tag></tag>
-   <comment></comment>
-   <recordOption>OTHER</recordOption>
-   <testCaseGuid>e3293d7f-bd90-4bc4-9fee-dd45d13cbec5</testCaseGuid>
-</TestCaseEntity>

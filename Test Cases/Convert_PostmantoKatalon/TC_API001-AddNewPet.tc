@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User menambahkan pet Baru</description>
+   <name>TC_API001-AddNewPet</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c5a987f7-b53e-43bc-bbae-2bbc62800a5f</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Create New Data</description>
+   <name>NTC001</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c46b0dc2-3ffe-4a5f-9754-8d88662d76c9</testCaseGuid>
+</TestCaseEntity>

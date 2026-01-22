@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description>Practice Registration Form: incorrect field input Email</description>
-   <name>DMQA_004_Negative</name>
-   <tag></tag>
-   <comment></comment>
-   <recordOption>OTHER</recordOption>
-   <testCaseGuid>21e69f07-535b-42b9-be06-6cb74731a3fe</testCaseGuid>
-</TestCaseEntity>

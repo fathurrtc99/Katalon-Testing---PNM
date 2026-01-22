@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Hapus data Pet dengan ID yang terdaftar</description>
+   <name>TC_API007-DeletePetbyID</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>4c37671f-ec20-464d-9069-3500dc158ec8</testCaseGuid>
+</TestCaseEntity>

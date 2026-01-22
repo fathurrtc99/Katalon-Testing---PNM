@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Update Pet Name Existing</description>
+   <name>TC_API003-UpdatePetName</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ae29bcfb-7cec-4015-824b-ff8f275907df</testCaseGuid>
+</TestCaseEntity>

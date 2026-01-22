@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Mengambil data pet dengan status Available</description>
+   <name>TC_API006-GetPetdenganStatus</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>7e01f5ad-96b7-418f-8282-8c51cf4b7864</testCaseGuid>
+</TestCaseEntity>

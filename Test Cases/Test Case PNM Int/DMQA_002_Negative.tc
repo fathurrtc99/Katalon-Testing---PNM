@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Empty Field FirstName</description>
+   <name>DMQA_002_Negative</name>
+   <tag>Negative</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>9c364d0e-4a2e-4b26-9cf3-9561c585ff0e</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Negative Case</description>
+   <name>NTC002_Negative</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>610f7d8f-e10f-499f-ba1d-31637e517450</testCaseGuid>
+</TestCaseEntity>

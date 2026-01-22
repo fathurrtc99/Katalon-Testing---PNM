@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Menambahkan Foto ke dalam data Pet</description>
+   <name>TC_API004-UploadImageFile</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>710fed84-4ff8-4193-a678-c350562a2f0c</testCaseGuid>
+</TestCaseEntity>

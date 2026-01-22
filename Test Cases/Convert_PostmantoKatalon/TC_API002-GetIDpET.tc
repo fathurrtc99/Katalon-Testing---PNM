@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Get ID Pet yang sudah terdaftar</description>
+   <name>TC_API002-GetIDpET</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>132a5a8c-24d8-4f9d-a0d3-0a184c026109</testCaseGuid>
+</TestCaseEntity>
