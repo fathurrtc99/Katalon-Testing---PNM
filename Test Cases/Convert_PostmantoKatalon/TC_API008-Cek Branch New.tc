@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Tambah File pada Branch</description>
+   <name>TC_API008-Cek Branch New</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>3e94bbaa-115e-47e8-8b87-613be6e0b0cb</testCaseGuid>
+</TestCaseEntity>
